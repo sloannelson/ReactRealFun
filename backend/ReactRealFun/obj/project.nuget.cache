@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f+kRRRL3/+JjlCPRy4KmkWwak1++AqW2MThvvrZqHLT6n+K3wNYNSjHFiA/xtvnOSl0M2/Pfr41QEQWPABVdww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BYU Rental\\Desktop\\ReactRealFun\\backend\\ReactRealFun\\ReactRealFun.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BYU Rental\\.nuget\\packages\\fsharp.core\\7.0.200\\fsharp.core.7.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
